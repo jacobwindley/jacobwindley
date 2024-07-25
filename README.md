@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jacob Windley</h1>
-<h3 align="center">A enthusiastic aspiring Machine Learning Engineer</h3>
+<h3 align="center">An aspiring Machine Learning Engineer with a passion for AI and innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobwindley&label=Profile%20views&color=0e75b6&style=flat" alt="jacobwindley" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jacob.windley@gmail.com**
 
-- ⚡ Fun fact **I love all things NBA**
+- ⚡ Fun fact **I love the NBA, video games and backpacking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
