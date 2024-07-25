@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jacob Windley</h1>
+<h1 align="center">Hi, I'm Jacob Windley</h1>
 <h3 align="center">A enthusiastic aspiring Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobwindley&label=Profile%20views&color=0e75b6&style=flat" alt="jacobwindley" /> </p>
