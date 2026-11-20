@@ -10,16 +10,6 @@ AI Engineer building production agentic GenAI systems, evaluation frameworks, an
 - Set up AI governance: intake processes, risk assessments, and standard paths from idea to production
 - Run AI platform rollouts and train technical and non-technical teams
 
-## How I architect chatbots
-
-```mermaid
-flowchart LR
-    A["Frontends"] --> B["Shared layer: guardrails, logging, history"]
-    B --> C["Agentic RAG backends: Google ADK, Strands"]
-    C --> D["LLMs: Vertex AI, Bedrock"]
-    C -.-> E["Evaluation: LLM-as-judge, similarity, guardrails"]
-```
-
 ## Tech
 
 [![Tech](https://skillicons.dev/icons?i=py,fastapi,pytorch,gcp,aws,github)](https://skillicons.dev)
