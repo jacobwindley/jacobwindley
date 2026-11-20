@@ -12,7 +12,7 @@ AI Engineer building production agentic GenAI systems, evaluation frameworks, an
 
 ## Tech
 
-[![Tech](https://skillicons.dev/icons?i=py,fastapi,pytorch,gcp,aws,github)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=py,fastapi,docker,gcp,aws,github)](https://skillicons.dev)
 
 **Languages and frameworks:** Python, FastAPI, PyTorch, Streamlit, MCP
 
