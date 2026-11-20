@@ -1,17 +1,26 @@
 # Hi, I'm Jake Windley
 
-AI Engineer building agentic GenAI systems, evaluation frameworks, and AI governance programs for Utah state government. U.S. Navy veteran, M.S. Computer Science from Georgia Tech.
+AI Engineer building production agentic GenAI systems, evaluation frameworks, and AI governance programs. Former Navy nuclear instructor, M.S. Computer Science from Georgia Tech.
 
-## What I work on
+## What I do
 
-- Agentic RAG systems (Google ADK, AWS Strands Agents) across GCP and AWS
-- LLM evaluation frameworks and multi-layer guardrails
-- AI platform management and governance policy for public-sector AI adoption
+- Design agent-based RAG systems with multi-layer guardrails on GCP and AWS
+- Build LLM evaluation frameworks: LLM-as-judge, semantic similarity, and guardrail testing before launch
+- Create shared infrastructure that decouples chatbot frontends from LLM calls and centralizes safety, logging, and history
+- Set up AI governance: intake processes, risk assessments, and standard paths from idea to production
+- Run AI platform rollouts and train technical and non-technical teams
 
 ## Tech
 
-Python, GCP (VertexAI, CloudRun, Model Armor), AWS (Bedrock, S3), Google ADK, AWS Strands Agents, PyTorch, FastAPI
+**Languages and frameworks:** Python, FastAPI, PyTorch, Streamlit, MCP
+**Agents and LLMs:** Google ADK, AWS Strands Agents, Claude (Bedrock), Ollama
+**Cloud:** GCP (Vertex AI, Cloud Run, Model Armor), AWS (Bedrock, Lambda, S3)
+**Dev tooling:** Claude Code, GitHub Copilot
+
+## Writing and projects
+
+- [Substack](https://substack.com/@jdwind)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/jake-windley-456652103) · jacob.windley@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jake-windley-456652103) · [Email](mailto:jacob.windley@gmail.com)
